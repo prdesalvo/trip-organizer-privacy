@@ -20,7 +20,13 @@ When reporting a problem, please include your device model, operating-system ver
 
 ### iCloud
 
-Trip Organizer keeps your trips in iCloud. Sign in to iCloud on each device with the same Apple Account. Once your trips have opened with a connection, they open offline too — on a plane, for example. Changes sync when you are back online, and can take a minute to arrive on another device.
+Trip Organizer syncs your trips through iCloud. Sign in to iCloud on each device with the same Apple Account. Your trips open offline too — on a plane, for example. Changes sync when you are back online, and can take a minute to arrive on another device.
+
+Without iCloud, Trip Organizer works fully on your device, but your trips stay on that device and can't be shared.
+
+### Trips Saved Before iCloud
+
+Trips you made while your device wasn't signed in to iCloud stay on that device. After you sign in, they appear at the top of the Trips screen under **Saved before iCloud**. Tap **Add to iCloud** to bring a trip's stays, places, days, journeys, and to-dos into iCloud as a new trip, or export it as a file. Packing lists and expenses stay on the device.
 
 ### Sharing a Trip
 
