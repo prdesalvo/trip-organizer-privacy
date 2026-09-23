@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for Trip Organizer
 
-_Last updated: September 23, 2026_
+_Last updated: September 22, 2026_
 
 Trip Organizer is built so that your trips belong to you. The developer does not collect, store, sell, or share any of your information, and cannot see your trips.
 
