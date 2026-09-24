@@ -3,9 +3,9 @@ title: Support
 permalink: /support/
 ---
 
-# Trip Organizer Support
+# Pin and Plot Support
 
-Trip Organizer keeps a whole trip in one place — the days, the journeys between them, the places you want to see, what to pack, and what it costs — with private iCloud sync and sharing.
+Pin and Plot keeps a whole trip in one place — the days, the journeys between them, the places you want to see, what to pack, and what it costs — with private iCloud sync and sharing.
 
 ## Contact
 
@@ -20,9 +20,9 @@ When reporting a problem, please include your device model, operating-system ver
 
 ### iCloud
 
-Trip Organizer syncs your trips through iCloud. Sign in to iCloud on each device with the same Apple Account. Your trips open offline too — on a plane, for example. Changes sync when you are back online, and can take a minute to arrive on another device.
+Pin and Plot syncs your trips through iCloud. Sign in to iCloud on each device with the same Apple Account. Your trips open offline too — on a plane, for example. Changes sync when you are back online, and can take a minute to arrive on another device.
 
-Without iCloud, Trip Organizer works fully on your device, but your trips stay on that device and can't be shared.
+Without iCloud, Pin and Plot works fully on your device, but your trips stay on that device and can't be shared.
 
 ### Trips Saved Before iCloud
 
@@ -38,7 +38,7 @@ Reading pasted text, screenshots, photos, and recordings into a trip, and asking
 
 ### Permissions
 
-Open the Settings app, select **Trip Organizer**, and confirm that the permission needed for the feature is enabled. Location, camera, microphone, and speech recognition are optional and requested only for related features.
+Open the Settings app, select **Pin and Plot**, and confirm that the permission needed for the feature is enabled. Location, camera, microphone, and speech recognition are optional and requested only for related features.
 
 ### Restoring a Deleted Trip
 
@@ -46,4 +46,4 @@ On the Trips screen, tap **···** › **Recently deleted** and restore it.
 
 ## Privacy
 
-Read the [Trip Organizer Privacy Policy](../).
+Read the [Pin and Plot Privacy Policy](../).
