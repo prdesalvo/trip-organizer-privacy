@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for Pin and Plot
 
-_Last updated: September 24, 2026_
+_Last updated: October 31, 2026_
 
 Pin and Plot is built so that your trips belong to you. The developer does not collect, store, sell, or share any of your information, and cannot see your trips.
 
@@ -27,7 +27,7 @@ Everything you add is stored on your device. Depending on the features you use, 
 
 - Trips, days, stays, activities, and notes
 - Journeys and their legs, times, and booking details
-- Saved places
+- Saved places and personal Favorites, including optional personal names
 - Packing lists and your packing library
 - Expenses, cost estimates, receipts, and cost splits
 - To-dos
@@ -42,9 +42,38 @@ When you are signed in to iCloud, Pin and Plot syncs your trips through your pri
 
 When you share a trip, it is shared through iCloud with the people you invite, and only with them. They can see and edit that trip. Personal packing items and receipt images stay private to you. You can stop sharing or remove someone at any time. Nothing is published or made discoverable.
 
-## On-Device Intelligence
+## Apple Intelligence and Optional Private Cloud Compute
 
-Pin and Plot uses Apple Intelligence, when it is available, to read pasted text, screenshots, photos, and recordings into your trip and to answer questions about it. This runs on your device. Pin and Plot does not send your trip content to the developer or to a third-party AI provider.
+Pin and Plot uses Apple Intelligence, when available, to read pasted text,
+screenshots, photos and recordings into your trip, answer questions, create
+trip overviews and summarize days. Processing runs on your device by default.
+
+On supported devices running iOS 27 or later, you can choose **Private
+Cloud Compute** in the You tab's Apple Intelligence section or the trip
+assistant's menu. It is off by default. Before turning it on, the app explains
+what will be sent and requires you to choose Turn On. The setting applies only to the
+device where you enable it; you can turn it off at any time.
+
+When enabled, the trip assistant, trip overviews, day summaries and trip,
+ticket and place-list imports can send the content they need to Apple's
+Private Cloud Compute. Depending on the feature, that includes your question
+and conversation; the trip's stays, journeys, places, day plans, to-dos and
+notes; the forecast and packing list used by the assistant; the day's plan
+and weather for a summary; or the text you import. Receipts, packing-list
+imports and stay confirmations are always read on device.
+
+Apple states that data processed by Private Cloud Compute is used only to
+fulfill the request, is not stored and is not accessible to Apple. The
+developer cannot access it. Pin and Plot does not send this content to a
+developer-operated server or another AI provider. Requests use a daily
+allowance tied to your iCloud account. If Private Cloud Compute is unavailable,
+the app uses on-device processing and identifies where the result was produced.
+
+Recordings are transcribed on device. If you enable Private Cloud Compute,
+the resulting text may be sent for a supported import; the recording itself
+is not sent to Private Cloud Compute.
+
+Learn more about [Apple's Private Cloud Compute privacy protections](https://www.apple.com/privacy/features/).
 
 ## Apple Services
 
@@ -53,6 +82,7 @@ Pin and Plot uses these Apple services to provide its features:
 - **Apple Maps:** searching for places, addresses, stations, and airports; Look Around; directions. Short Apple Maps links you paste are opened with Apple to find the place they point to.
 - **Apple Weather (WeatherKit):** forecasts for the places on your trip.
 - **iCloud (CloudKit):** sync and sharing.
+- **Private Cloud Compute:** optional Apple Intelligence processing after you enable it.
 
 Requests to these services are handled by Apple under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
@@ -89,3 +119,4 @@ If this policy changes, the "Last updated" date at the top of this page will be 
 ## Contact
 
 For privacy questions or support, email [talus.llano-3k@icloud.com](mailto:talus.llano-3k@icloud.com) or visit the [Pin and Plot support page](./support/).
+
