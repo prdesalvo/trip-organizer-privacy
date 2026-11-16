@@ -11,7 +11,13 @@ from this repository. Keep the existing root `index.md` privacy policy,
 - Edit `pin-and-plot/index.html` for page copy, links and Open Graph metadata.
 - Edit `pin-and-plot/style.css` for responsive presentation. No build step or
   JavaScript dependency is needed.
-- Keep the App Store button linked to app ID `6800444562`.
+- Keep all App Store links pointed at app ID `6800444562`.
+- The hero uses Apple's unmodified official black App Store badge, stored in
+  `pin-and-plot/assets/download-on-the-app-store.svg`. Keep one badge per page,
+  at least 40 px tall, with clear space of one-quarter its height. Other download
+  actions use text links.
+- Badge source: https://toolbox.marketingtools.apple.com/api/assets/featured-content/apps/badges/badge-2/en-us.svg
+- Badge guidelines: https://developer.apple.com/app-store/marketing/guidelines/
 - Images are the app's publicly listed icon/screenshots. The Switzerland trip
   is example content. No analytics, external fonts or additional services are added.
 
